@@ -82,13 +82,13 @@ Filters Available:
 ## 📷 Dashboard Preview
 
 ### Introduction Page
-![Introduction](Screenshots/Introduction.png)
+![Introduction](https://github.com/pihugarg/Bank-Loan-Analytics-Dashboard-/blob/main/assets/Introduction.png)
 
 ### Executive Summary
-![Summary](Screenshots/Summary.png)
+![Summary](https://github.com/pihugarg/Bank-Loan-Analytics-Dashboard-/blob/main/assets/Summary.png)
 
 ### Overview Analysis
-![Overview](Screenshots/Overview.png)
+![Overview](https://github.com/pihugarg/Bank-Loan-Analytics-Dashboard-/blob/main/assets/Overview.png)
 
 ### Detailed Loan Records
 ![Details](https://github.com/pihugarg/Bank-Loan-Analytics-Dashboard-/blob/main/assets/Details.png)
