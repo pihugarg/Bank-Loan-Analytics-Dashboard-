@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The Bank Loan Analytics Dashboard is an interactive Power BI project developed to analyze loan portfolio performance, borrower behavior, loan quality, and lending trends. The dashboard transforms raw loan data into meaningful business insights that help stakeholders make informed lending and risk-management decisions.
+The Bank Loan Analytics Dashboard is an interactive Power BI project developed to analyze loan portfolio performance, borrower behaviour, loan quality and lending trends. The dashboard transforms raw loan data into meaningful business insights that help stakeholders make informed lending and risk management decisions.
 
 ---
 
