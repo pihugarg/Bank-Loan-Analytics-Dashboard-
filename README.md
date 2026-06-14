@@ -91,7 +91,7 @@ Filters Available:
 ![Overview](Screenshots/Overview.png)
 
 ### Detailed Loan Records
-![Details](Screenshots/Details.png)
+![Details](https://github.com/pihugarg/Bank-Loan-Analytics-Dashboard-/blob/main/assets/Details.png)
 
 ---
 
